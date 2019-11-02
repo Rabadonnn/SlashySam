@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>c:/Users/Mihai/Desktop/SlashySam/Content/ThaleahFont.spritefont</SourceFile>
+  <SourceTime>2019-10-02T17:24:45.424623+03:00</SourceTime>
+  <DestFile>c:/Users/Mihai/Desktop/SlashySam/Content/bin/DesktopGL/Content/ThaleahFont.xnb</DestFile>
+  <DestTime>2019-11-02T14:39:47.6751242+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-01-13T19:18:24+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-01-13T19:18:24+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

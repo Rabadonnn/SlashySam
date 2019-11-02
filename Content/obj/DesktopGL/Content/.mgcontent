@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Circle.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Cross.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Cursor.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Enemies/Scout.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Enemies/Scout_Sword.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Box_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Bush_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Campfire.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Dead_Tree.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Flowers_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Flowers_02.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/GrassSet.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Ground.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/House_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/House_02.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Log_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Rock_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Sand_Steps.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Stain_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Environment/Stain_02.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Levels/Level_01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/PixelatedCircle.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Player/Katana-01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Player/Sam.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Player/Sam-01.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Player/SamHead.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Player/Shuriken.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Player/SmokeBombIcon.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/Rectangle.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/SplashArt.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/SplashArt_02.png</File>
+    <File>c:/Users/Mihai/Desktop/SlashySam/Content/ThaleahFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
